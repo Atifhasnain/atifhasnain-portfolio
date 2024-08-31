@@ -14,16 +14,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      Hey I'm Muhammad Atif Hasnain having expertise as a DevOps Engineer. 
+      ## Hey I'm Muhammad Atif Hasnain having expertise as a DevOps Engineer.
 
 
-      My expertise in automating and managing complex deployments shines
+      ## My expertise in automating and managing complex deployments shines
       through, as I ensure smooth and consistent  release management processes.
       Mastery in infrastructure as code, particularly with Terraform and
       Ansible, has been pivotal in achieving operational efficiency and
       robustness within our tech landscape.
-
-      -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
     media:
       type: ImageBlock
