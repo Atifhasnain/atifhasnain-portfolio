@@ -23,10 +23,6 @@ sections:
       Ansible, has been pivotal in achieving operational efficiency and
       robustness within our tech landscape.
 
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
     styles:
       self:
         height: auto
